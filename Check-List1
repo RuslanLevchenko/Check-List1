@@ -1,0 +1,38 @@
+Check list by https://qauto2.forstudy.space link "Model"
+
+	 
+	       To check 	                                     Expected result	                             Actual result	  Comments
+
+
+1	Brand "Audi"-entered by default 	 access to all the models of this brand on site                                              Ok
+2	Enter "TT"	                         access to selected model with entered data to line "Mileage"                                Ok
+3	Enter "R8"	                         access to selected model with entered data to line "Mileage"                                Ok
+4	Enter "Q7"	                         access to selected model with entered data to line "Mileage"                                Ok
+5	Enter "A6"	                         access to selected model with entered data to line "Mileage"                                Ok
+6	Enter "A8"	                         access to selected model with entered data to line "Mileage"                                Ok
+
+7	Brand "BMW"-entered by default	         access to all the models of this brand on site                                              Ok
+8	Enter "3"	                         access to selected model with entered data to line "Mileage"                                Ok
+9	Enter "5" 	                         access to selected model with entered data to line "Mileage"                                Ok
+10	Enter "X5"	                         access to selected model with entered data to line "Mileage"                                Ok
+11	Enter "X6"	                         access to selected model with entered data to line "Mileage"                                Ok
+12	Enter "Z3"  	                         access to selected model with entered data to line "Mileage"                                Ok
+
+13	Brand "Ford"-entered by default	         access to all the models of this brand on site                                              Ok
+14	Enter "Fiesta"	                         access to selected model with entered data to line "Mileage"                                Ok
+15	Enter "Focus"	                         access to selected model with entered data to line "Mileage"                                Ok
+16	Enter "Fusion"	                         access to selected model with entered data to line "Mileage"                                Ok
+17	Enter "Mondeo"	                         access to selected model with entered data to line "Mileage"                                Ok
+18	Enter "Sierra"	                         access to selected model with entered data to line "Mileage"                                Ok
+
+19	Brand "Porsche"-entered by default	 access to all the models of this brand on site                                              Ok
+20	Enter "911" 	                         access to selected model with entered data to line "Mileage"                                Ok
+21	Enter "Cayenne"	                         access to selected model with entered data to line "Mileage"                                Ok
+22	Enter "Panamera" 	                 access to selected model with entered data to line "Mileage"                                Ok
+
+23	Brand "Fiat"-entered by default	         access to all the models of this brand on site                                              Ok
+24	Enter "Palio" 	                         access to selected model with entered data to line "Mileage"                                Ok
+25	Enter "Ducato"	                         access to selected model with entered data to line "Mileage"                                Ok
+26	Enter "Panda"	                         access to selected model with entered data to line "Mileage"                                Ok
+27	Enter "Punto"	                         access to selected model with entered data to line "Mileage"                                Ok
+28	Enter "Scudo"	                         access to selected model with entered data to line "Mileage"                                Ok
